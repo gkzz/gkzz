@@ -1,4 +1,4 @@
-<img src="/docs/img/top_image.jpg" alt="top_image" style="max-width:5%;">
+![top_image](https://user-images.githubusercontent.com/38461277/89654067-0c237100-d903-11ea-96fa-ba06b8694a5d.jpg)
 
 # Hi, I'm Gakuji
 
