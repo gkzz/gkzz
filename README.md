@@ -22,7 +22,7 @@ I'm a little interested in new opportunities at this time.
 
 - [Speakerdeck](https://speakerdeck.com/gkzz)
 
-## Contact
+## Contact Me
 
 - [Linkedin](https://www.linkedin.com/in/gakujitamaki)
 
