@@ -5,8 +5,8 @@
 - Based in: Tokyo, Japan
 
 - Current: 
-  - Productivity Engineering / 生産性向上エンジニア @cybozu
-  - #Student in Information Science and Engineering
+  - Productivity Engineering / 生産性向上エンジニア [@cybozu](https://twitter.com/cybozu)
+  - Student in Information Science and Engineering
 
 I'm a little interested in new opportunities at this time.
 
