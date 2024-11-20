@@ -2,11 +2,10 @@
 
 # Hi, I'm Gakuji
 
-- Based in: Tokyo, Japan
+- Based in: Around Tokyo, Japan
 
 - Current: 
-  - Productivity Engineering / 生産性向上エンジニア [@cybozu](https://github.com/cybozu)
-  - Student in Information Science and Engineering
+  - QA Engineer / QA Automation Engineer [@cybozu](https://github.com/cybozu)
 
 I'm a little interested in new opportunities at this time.
 
